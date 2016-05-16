@@ -1,4 +1,4 @@
-## Pimp up your thumbwheel swtich  ##
+## Pimp up your thumbwheel switch  ##
 
 ![EncoderBoard](https://github.com/hexeguitar/DecadeRbox/blob/master/ThswDecadebox1.jpg)
 
