@@ -1,4 +1,5 @@
 ## Pimp up your thumbwheel switch  ##
+and build a resistance decade box.
 
 ![EncoderBoard](https://github.com/hexeguitar/DecadeRbox/blob/master/ThswDecadebox1.jpg)
 
