@@ -1,5 +1,6 @@
 ## Pimp up your thumbwheel switch  ##
 and build a resistance decade box.
+PCB thickness: 0.6mm or less.
 
 ![EncoderBoard](https://github.com/hexeguitar/DecadeRbox/blob/master/ThswDecadebox1.jpg)
 
