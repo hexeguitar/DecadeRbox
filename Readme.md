@@ -4,7 +4,7 @@ replacement conctact boards for the smaller (h=~18mm) thumbwheel switches.
 PCB thickness: 0.6mm or less.
 
 There are two versions of the board:
-BBM : break before make.
+BBM : break before make and
 MBB : make before break.
 
 Design made using SprintLayout6.
