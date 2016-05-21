@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding='UTF-8'?>
+<CAMsetup>
+	<thisfile>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\6xMBB.camset</thisfile>
+	<morelayertypes>
+	</morelayertypes>
+	<usecolors>
+		<mixer>0.000</mixer>
+		<object type="Plated H. In">00BFBFBF</object>
+		<object type="Plated H. Out">0026120F</object>
+		<object type="Edge In">008C8C09</object>
+		<object type="Edge Out">00809854</object>
+		<object type="Volume">BC7D8C59</object>
+		<object type="Background">00898989</object>
+		<layer type="PasteMask">008080C0</layer>
+		<layer type="Silkscreen">00E3E3E3</layer>
+		<layer type="SolderMask">900B2B06</layer>
+		<layer type="Copper">00765223</layer>
+		<layer type="Core">00000000</layer>
+		<layer type="Prepreg">00000000</layer>
+		<layer type="BoardOutline">00000000</layer>
+	</usecolors>
+	<boardlayers>
+		<layer type="Silkscreen" H="35" Er="0.000" color="00CBFFD4">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_silkscreen_top.gbr</filename>
+			<filedisp>DecSw6xMBB_silkscreen_top.gbr</filedisp>
+		</layer>
+		<layer type="SolderMask" H="35" Er="0.000" color="00001700">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_soldermask_top.gbr</filename>
+			<filedisp>DecSw6xMBB_soldermask_top.gbr</filedisp>
+		</layer>
+		<layer type="Copper" H="35" Negative="DefaultPositive" color="00800000">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_copper_top.gbr</filename>
+			<filedisp>DecSw6xMBB_copper_top.gbr</filedisp>
+		</layer>
+		<layer type="Prepreg" H="500" Er="4.800">
+		</layer>
+		<layer type="Copper" H="35" Negative="DefaultPositive" color="000000D0">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_copper_bottom.gbr</filename>
+			<filedisp>DecSw6xMBB_copper_bottom.gbr</filedisp>
+		</layer>
+		<layer type="SolderMask" H="35" Er="0.000" color="00000C1E">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_soldermask_bottom.gbr</filename>
+			<filedisp>DecSw6xMBB_soldermask_bottom.gbr</filedisp>
+		</layer>
+		<layer type="Silkscreen" H="35" Er="0.000" color="00CAD2F6">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_silkscreen_bottom.gbr</filename>
+			<filedisp>DecSw6xMBB_silkscreen_bottom.gbr</filedisp>
+		</layer>
+		<layer type="BoardOutline" H="710">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_outline.gbr</filename>
+			<filedisp>DecSw6xMBB_outline.gbr</filedisp>
+		</layer>
+	</boardlayers>
+
+	<boarddrillplates>
+		<drillplate from="top" to="btm" plated="no">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB_NPTH.drl</filename>
+			<filedisp>DecSw6xMBB_NPTH.drl</filedisp>
+		</drillplate>
+		<drillplate from="top" to="btm" plated="yes">
+			<filename>I:\Electronics\Projects\Hardware\Gerbers\DecadeRbox1206\6xMBB\DecSw6xMBB.drl</filename>
+			<filedisp>DecSw6xMBB.drl</filedisp>
+		</drillplate>
+	</boarddrillplates>
+
+	<GerberSetup Incremental='no' OmitTrailingZeros='no' Milimeters='no' Len1='2' Len2='3'/>
+	<NCDSetup Guess='yes' Incremental='no' OmitTrailingZeros='no' Units='DefaultInch' Len1='2' Len2='3' Autooffset='yes'/>
+	<IPC356Setup AutoUnits='1' AutoMagnitude='1' LongPinID='yes' CpyFromDrill='yes' Autooffset='yes'/>
+	<BoardOutlineDrawing srctype='1' trackwidthMin='0.004' trackwidthSlopStart='0.01' trackwidthMetaTrsh='0.012'/>
+	<IdentifyOutline mode='0' removeoutside='yes' horizMargin='0' vertMargin='0' brushBlob='1' />
+</CAMsetup>
